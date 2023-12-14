@@ -7,6 +7,7 @@ a {
 }
 a:hover {
   text-transform: capitalize;
+  color: lightslategray;
 }
 a:visited {
   color: rgb(173, 40, 40);
